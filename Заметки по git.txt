@@ -3,6 +3,7 @@ git congig --global user.name "Имя Фамилия"
 git config --global user.email "Ваш email"
 git config --global color.ui true
 git config --global core.quotepath off
+git config --global core.autocrlf false
 
 cd E:\Programs/OpenServer/OpenServer/domains/git
 
